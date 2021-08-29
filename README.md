@@ -1,4 +1,4 @@
-# Project 00 : 42_Libft
+# Project 00: 42_Libft
 
 ## Building our first very own library
 
