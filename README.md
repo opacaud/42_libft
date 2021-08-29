@@ -1,6 +1,6 @@
-# 42_Libft
+# Projet 00 : 42_Libft
 
-## Projet 00 : Building our first very own library
+## Building our first very own library
 
 ### Mandatory part
 
