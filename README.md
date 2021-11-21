@@ -36,7 +36,7 @@
 - ft_tolower
 - ft_toupper
 
-### Bonus : linked lists functions
+### Bonus: linked lists functions
 
 - ft_lstadd_back
 - ft_lstadd_front
