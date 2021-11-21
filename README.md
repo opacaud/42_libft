@@ -42,7 +42,7 @@
 - ft_lstadd_front
 - ft_lstclear
 - ft_lstdelone
-- ft-lstiter
+- ft_lstiter
 - ft_lstlast
 - ft_lstmap
 - ft_lstnew
