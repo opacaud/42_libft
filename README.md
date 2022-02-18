@@ -1,6 +1,9 @@
 # Project 00: 42_Libft
 
 ## Building our first very own library
+</br>
+
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/opacaud/Libft)](https://github.com/JaeSeoKim/badge42)
 
 ### Mandatory part
 
