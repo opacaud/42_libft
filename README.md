@@ -3,7 +3,7 @@
 ## Building our first very own library
 </br>
 
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/opacaud/Libft)](https://github.com/JaeSeoKim/badge42)
+[![opacaud's 42 Libft Score](https://badge42.vercel.app/api/v2/cl2g6sk3a013609l6l237136q/project/2177378)](https://github.com/JaeSeoKim/badge42)
 
 ### Mandatory part
 
